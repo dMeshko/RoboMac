@@ -271,7 +271,7 @@ int main()
 		//int power_difference = proportional/2.9 + integral*65/1000 + derivative*9.3; <- nokjno
 		//int power_difference = proportional/4 + integral*128/1000 + derivative*8; <- denski
 		//int power_difference = proportional/2.83 + integral*65/1000 + derivative*7.75;//7--arm
-		int power_difference = proportional/2.89 + integral*65/1000 + derivative*7.35; //-- so ovoa da se natprevaruvame
+		int power_difference = proportional/2.89 + integral*65/1000 + derivative*7.35; //-- so ova da se natprevaruvame
 		//int power_difference = proportional/3 + integral*140/1000 + derivative*12;
 		//int power_difference = proportional/20 + integral*110/1000 + derivative*7/3.33;
 		//int power_difference = proportional/10 + integral*60/1500 + derivative*9/4.3;
